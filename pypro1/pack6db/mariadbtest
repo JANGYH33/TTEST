@@ -1,0 +1,5 @@
+use test;
+show tables;
+create table abc(bun int primary key, irum varchar(10));
+insert into abc values(1,'tom');
+insert into abc values(2,'홍길동');
